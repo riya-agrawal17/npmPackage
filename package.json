@@ -1,4 +1,8 @@
 {
   "name": "packaging-nodes",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Tool to detect browser types",
+  "homepage": "https://github.com/riya-agrawal17/npmPackage/blob/main/index.js",
+  "author": "Learner"
 }
+
